@@ -22,7 +22,6 @@ struct ContentView: View {
                     .aspectRatio(contentMode: .fit)
                     .frame(width: 200.0, height: 200.0)
             }
-
         }
     }
 }
