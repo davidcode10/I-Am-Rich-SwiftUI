@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ZStack {
-            Color(red: /*@START_MENU_TOKEN@*/0.5/*@END_MENU_TOKEN@*/, green: /*@START_MENU_TOKEN@*/0.5/*@END_MENU_TOKEN@*/, blue: 10)
+            Color(red: 0.5, green: 0.5, blue: 10)
                 .edgesIgnoringSafeArea(.all)
             VStack {
                 Text("I Am Rich")
