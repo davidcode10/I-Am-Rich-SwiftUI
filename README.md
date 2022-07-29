@@ -1,4 +1,4 @@
-# I-Am-Rich-SwiftUI
+# I Am Rich SwiftUI
 
 I Am Rich App using SwiftUI
 
